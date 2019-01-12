@@ -1,4 +1,4 @@
-- renommer `youtube-api-key.txt.dist` en `youtube-api-key.txt` et y écrire la clef d'API YouTube
+- renommer `youtube-api-key.txt.dist` en `youtube-api-key.txt` et y écrire la [clef d'API YouTube](https://developers.google.com/youtube/registering_an_application)
 - déclarer une liste d'id de vidéos dans `videos-id.txt` (un par ligne)
 - `python3 fetch-youtube-comments.py`
 - regarder le contenu du dossier `cache` : tout ce que renvoie l'API pour une vidéo est placé dans un fichier JSON nommé selon l'id de cette vidéo
